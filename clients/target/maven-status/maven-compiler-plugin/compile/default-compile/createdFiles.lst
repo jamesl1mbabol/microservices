@@ -1,0 +1,4 @@
+com\jlbcompany\app\clients\fraud\FraudCheckResponse.class
+com\jlbcompany\app\clients\notification\NotificationRequest.class
+com\jlbcompany\app\clients\notification\NotificationClient.class
+com\jlbcompany\app\clients\fraud\FraudClient.class
